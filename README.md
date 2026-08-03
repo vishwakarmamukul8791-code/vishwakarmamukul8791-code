@@ -1,10 +1,11 @@
 ﻿<h1 align="center">Hi, I'm Mukul 👋</h1>
-<p align="center">AI Engineer at TCS · Building RAG &amp; LLM systems · Open to AI / ML Engineer roles at product companies</p>
+<p align="center">AI Engineer at TCS · Building RAG &amp; LLM systems · Open to AI / ML Engineer roles</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mukul-s-8s677" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mmukul8791@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
+<p align="center"><sub>mmukul8791@gmail.com</sub></p>
 
 <br>
 
@@ -73,7 +74,7 @@ A full-stack RAG platform for investigating IT incidents against an internal kno
 
 ## What I'm Looking For
 
-AI Engineer / ML Engineer roles at product-based companies, working on LLM applications, retrieval systems, and production ML infrastructure.
+AI Engineer / ML Engineer roles focused on LLM applications, retrieval systems, and production ML infrastructure.
 
 ## Let's Connect
 
