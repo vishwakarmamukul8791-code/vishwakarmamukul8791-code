@@ -1,29 +1,57 @@
-### Hi, I'm Mukul
+﻿<h1 align="center">Hi, I'm Mukul 👋</h1>
+<p align="center">AI Engineer at TCS · Building RAG &amp; LLM systems · Open to AI / ML Engineer roles at product companies</p>
 
-AI Engineer at TCS, with around 1 year of industry experience building applied AI/ML systems. Currently focused on retrieval-augmented generation (RAG), LLM-backed applications, and production-grade backend engineering. Looking for AI Engineer / ML Engineer roles at product-based companies.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mukul-s-8s677" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mmukul8791@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
 
----
+<br>
 
-### Tech I work with
+## About Me
 
-**Languages:** Python, Java, SQL
-**Backend & APIs:** FastAPI
-**AI / ML / LLMs:** RAG, LLMs, BM25, FAISS, Hybrid Retrieval, Gemini
-**Frontend:** React
-**Tooling:** Docker, GitHub Actions
+AI Engineer at TCS with around 1 year of industry experience building applied AI/ML systems. Currently focused on retrieval-augmented generation (RAG), LLM-backed applications, and production-grade backend engineering.
 
----
+## Tech Stack
 
-### How I work
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**AI / ML / LLMs**
+
+![RAG](https://img.shields.io/badge/RAG-4B275F?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-4B275F?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-4B275F?style=for-the-badge)
+![BM25](https://img.shields.io/badge/BM25-4B275F?style=for-the-badge)
+![Hybrid Retrieval](https://img.shields.io/badge/Hybrid_Retrieval-4B275F?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Tooling**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+## How I Work
 
 - Design for failure, not just the happy path — e.g. confidence-gated generation that abstains instead of guessing when evidence is weak
 - Validate retrieval and generation quality with offline evaluation, not just manual spot-checks
 - Care about state consistency and safe writes in systems with persistent data
 - Ship with CI: tests, linting, and builds run automatically on every change
 
----
+## Featured Project — ResolveIQ
 
-### Featured project — ResolveIQ
+[![CI](https://github.com/vishwakarmamukul8791-code/intelligent-incident-resolution-assistant/actions/workflows/ci.yml/badge.svg)](https://github.com/vishwakarmamukul8791-code/intelligent-incident-resolution-assistant/actions/workflows/ci.yml)
 
 A full-stack RAG platform for investigating IT incidents against an internal knowledge base, built to fail safely rather than answer confidently on weak evidence.
 
@@ -34,26 +62,23 @@ A full-stack RAG platform for investigating IT incidents against an internal kno
 - Offline retrieval evaluation harness for measuring retrieval quality
 - FastAPI backend, React frontend, Docker, CI/CD via GitHub Actions
 
-**Live app:** https://resolveiq-five.vercel.app
-**Repository:** https://github.com/vishwakarmamukul8791-code/intelligent-incident-resolution-assistant
+<p>
+  <a href="https://resolveiq-five.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+  <a href="https://github.com/vishwakarmamukul8791-code/intelligent-incident-resolution-assistant" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
+</p>
 
----
-
-### Currently building
+## Currently Building
 
 **QueryForge** — a small language model (SLM) project, in progress.
 
----
-
-### What I'm looking for
+## What I'm Looking For
 
 AI Engineer / ML Engineer roles at product-based companies, working on LLM applications, retrieval systems, and production ML infrastructure.
 
----
+## Let's Connect
 
-### Connect
-
-- GitHub: [@vishwakarmamukul8791-code](https://github.com/vishwakarmamukul8791-code)
-- LinkedIn: [linkedin.com/in/mukul-s-8s677](https://www.linkedin.com/in/mukul-s-8s677)
-- Email: mmukul8791@gmail.com
-Out-File -FilePath README.md -Encoding utf8
+<p>
+  <a href="https://github.com/vishwakarmamukul8791-code" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/mukul-s-8s677" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mmukul8791@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
