@@ -72,9 +72,14 @@ A full-stack RAG platform for investigating IT incidents against an internal kno
   <a href="https://github.com/vishwakarmamukul8791-code/intelligent-incident-resolution-assistant" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
 </p>
 
-## Currently Building
+## Currently Building — QueryForge
 
-**QueryForge** — a small language model (SLM) project, in progress.
+A natural-language-to-SQL platform powered by a fine-tuned small language model, focused on safe, validated query generation rather than executing anything a model guesses.
+
+<p>
+  <a href="https://github.com/vishwakarmamukul8791-code/queryforge-slm" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
+  <img src="https://img.shields.io/badge/Status-In_Progress-B8860B?style=for-the-badge" alt="In Progress"/>
+</p>
 
 ## What I'm Looking For
 
