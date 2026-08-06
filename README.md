@@ -83,7 +83,7 @@ A natural-language-to-SQL platform powered by a fine-tuned small language model,
 
 ## What I'm Looking For
 
-AI Engineer / ML Engineer roles focused on LLM applications, retrieval systems, and production ML infrastructure.
+I want to keep building AI systems that know their limits — not just impressive demos, but LLM applications and retrieval infrastructure that hold up in production. Open to AI / ML Engineer roles where that's the bar.
 
 ## Let's Connect
 
