@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://portfolio-r6c8-seven.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2F705E?style=for-the-badge" alt="Portfolio"></a>
-  <a href="https://resolveiq-five.vercel.app"><img src="https://img.shields.io/badge/ResolveIQ_Live-15221F?style=for-the-badge&logo=vercel&logoColor=white" alt="ResolveIQ live application"></a>
   <a href="https://www.linkedin.com/in/mukul-s-8s677"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mmukul8791@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -31,7 +30,7 @@ Currently open to **AI Engineer, ML Engineer, and Generative AI Engineer** oppor
 
 ## Featured work
 
-### ResolveIQ — Production RAG Incident Resolution
+### ResolveIQ — AI-Powered Incident Resolution Platform
 
 [![CI](https://github.com/vishwakarmamukul8791-code/resolveiq-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/vishwakarmamukul8791-code/resolveiq-platform/actions/workflows/ci.yml)
 ![Status](https://img.shields.io/badge/status-live-2F705E)
