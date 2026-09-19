@@ -48,7 +48,7 @@ A full-stack incident-resolution platform that helps support engineers investiga
 - Accounts, sessions, history, documents, chunks, and embeddings survive backend redeploys
 - CI validates backend tests, frontend lint/build, and the production Docker image
 
-**Stack:** Python, FastAPI, React, Gemini, BM25, FAISS / pgvector, Supabase PostgreSQL, Docker, GitHub Actions.
+**Stack:** Python, FastAPI, React, Vite, Google Gemini, SentenceTransformers, BM25, FAISS, PostgreSQL / pgvector, Supabase, Docker, GitHub Actions.
 
 [Architecture and RAG pipeline](https://github.com/vishwakarmamukul8791-code/resolveiq-platform#rag-pipeline)
 <p align="center">
