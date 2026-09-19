@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mukul 👋</h1>
 
 <p align="center">
-  <strong>AI/ML Product Engineer building reliable RAG, retrieval, and model-adaptation systems.</strong>
+  <strong>AI/ML Engineer building RAG applications, agent workflows, and Python automation.</strong>
 </p>
 
 <p align="center">
@@ -16,17 +16,13 @@
 
 ---
 
-## I build AI systems that know their limits
+## About me
 
-I work across retrieval pipelines, LLM applications, model-assisted workflows, evaluation, backend APIs, and production deployment. My focus is not just generating fluent output—it is building systems that retrieve the right evidence, expose their evidence path through citations, and fail safely when the evidence is weak.
+I'm an AI/ML engineer at TCS, where I've built an NLP-based defect similarity search application and Python automation for XML-to-Excel and conditional XML/Excel generation.
+
+My personal projects explore RAG for incident resolution, agent workflows with human approval, and scheduled report automation. I focus on retrieval quality, clear execution boundaries, input validation, and understandable results.
 
 Currently open to **AI Engineer, ML Engineer, and Generative AI Engineer** opportunities at product-focused teams.
-
-## Engineering focus
-
-| Applied AI | Retrieval & Evaluation | Model Adaptation | Product Engineering |
-|---|---|---|---|
-| RAG, LLM applications, Gemini | BM25, pgvector, FAISS, RRF, reranking | SLMs, SFT, LoRA, QLoRA, PEFT | Python, FastAPI, PostgreSQL, React, Docker, CI/CD |
 
 ## Featured work
 
@@ -53,7 +49,7 @@ A full-stack incident-resolution platform that helps support engineers investiga
 - CI validates backend tests, frontend lint/build, and the production Docker image
 
 <p align="center">
-  <img src="https://github.com/vishwakarmamukul8791-code/resolveiq-platform/raw/main/docs/screenshots/resolveiq-rag-answer.png" width="760" alt="ResolveIQ grounded RAG answer with citations">
+  <img src="https://github.com/vishwakarmamukul8791-code/resolveiq-platform/raw/main/docs/screenshots/resolveiq-support-rag.png" width="760" alt="ResolveIQ grounded RAG answer with citations">
 </p>
 
 <p>
@@ -61,36 +57,50 @@ A full-stack incident-resolution platform that helps support engineers investiga
   <a href="https://github.com/vishwakarmamukul8791-code/resolveiq-platform"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="ResolveIQ repository"></a>
 </p>
 
-### QueryForge — Safe Text-to-SQL with a Fine-Tuned SLM
+### PayPilot AI — Agentic Payment Orchestration Sandbox
 
-![Status](https://img.shields.io/badge/status-building_in_public-B8860B)
+A full-stack, simulated payment application that turns natural-language requests into controlled workflows. It uses fake money; backend policy checks retain authority over every payment.
 
-An in-progress natural-language-to-SQL system focused on adapting a small language model for correct, measurable, and safe generation on previously unseen database schemas.
+**What I built**
 
-**Build direction**
+- LangGraph orchestration with explicit workflow state and human-in-the-loop approval
+- Optional Gemini intent parsing with a deterministic parser for supported payment requests
+- Execution-time revalidation of balances, limits, destinations, and approval requirements
+- Idempotency keys, transactional ledger updates, and paired debit/credit entries for internal transfers
+- Session-isolated accounts, payees, bills, and visible agent decision traces
 
-- Spider dataset auditing, schema parsing, and schema-aware training examples
-- Qwen2.5-Coder 1.5B with QLoRA-based parameter-efficient fine-tuning
-- Read-only SQL enforcement and SQLGlot AST validation
-- Exact-match and execution-based evaluation instead of syntax-only scoring
-- Row limits, timeouts, and schema-level access controls before execution
+**Stack:** Python, FastAPI, LangGraph, React, SQLAlchemy, SQLite / PostgreSQL, Pytest.
 
-<p>
-  <a href="https://github.com/vishwakarmamukul8791-code/queryforge-slm"><img src="https://img.shields.io/badge/Follow_the_Build-181717?style=for-the-badge&logo=github&logoColor=white" alt="QueryForge repository"></a>
-</p>
+[View PayPilot AI repository](https://github.com/vishwakarmamukul8791-code/paypilot-ai) · [Architecture](https://github.com/vishwakarmamukul8791-code/paypilot-ai/blob/main/docs/ARCHITECTURE.md)
+
+### ReportFlow — Scheduled Report Automation
+
+A full-stack application that fetches public JSON API data on a schedule, transforms it with pandas, and generates downloadable Excel or PDF reports.
+
+**What I built**
+
+- Cron-based scheduling with APScheduler, retry/backoff, and run history
+- JSON data transformation and Excel/PDF report generation
+- Optional email delivery and Slack notifications
+- JWT authentication and per-user isolation for jobs, runs, and report downloads
+- URL and IP validation, response-size limits, and output escaping to reduce ingestion and report-generation risks
+
+**Stack:** Python, FastAPI, pandas, APScheduler, React, PostgreSQL, Alembic, Docker.
+
+[View ReportFlow repository](https://github.com/vishwakarmamukul8791-code/reportflow)
 
 ## How I engineer
 
 - **Grounded by design:** evidence, citations, and safe abstention are system requirements
 - **Measured, not assumed:** retrieval quality and failure cases are evaluated before trusting output
-- **Owned end to end:** data, APIs, security, persistence, deployment, and user experience all matter
+- **End-to-end development:** connect data processing, APIs, persistence, and user interfaces
 - **Built to evolve:** clear boundaries, tests, CI, and documented trade-offs keep systems maintainable
 
 ## Core toolkit
 
 `Python` · `Java` · `SQL` · `FastAPI` · `React` · `PostgreSQL` · `Supabase` · `Docker` · `GitHub Actions`
 
-`RAG` · `LLMs` · `SLMs` · `BM25` · `pgvector` · `FAISS` · `RRF` · `Fine-tuning` · `LoRA / QLoRA` · `PEFT`
+`RAG` · `Gemini` · `LangGraph` · `BM25` · `pgvector` · `FAISS` · `RRF` · `pandas` · `Pytest`
 
 ---
 
@@ -101,3 +111,4 @@ An in-progress natural-language-to-SQL system focused on adapting a small langua
   <a href="https://leetcode.com/u/Mukul863024/">LeetCode</a> ·
   <a href="mailto:mmukul8791@gmail.com">Email</a>
 </p>
+
